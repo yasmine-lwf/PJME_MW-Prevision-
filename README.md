@@ -4,7 +4,7 @@
 Master ROMARIN | Techniques de prévision University of Science and Technology Houari Boumediene (USTHB)
 
 📝 Project Overview
-Developed under the supervision of Pr. Djamal Chaabane, this application provides a robust framework for analyzing and forecasting time series data. In today’s volatile economic environment, the tool automates the transformation of raw temporal data into actionable strategic insights.
+ This application provides a robust framework for analyzing and forecasting time series data. In today’s volatile economic environment, the tool automates the transformation of raw temporal data into actionable strategic insights.
 
 🚀 Core Features
 -Exploratory Data Analysis (EDA): Automatic detection of seasonality, trend analysis, and descriptive statistics.
